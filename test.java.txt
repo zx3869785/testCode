@@ -2,5 +2,6 @@ public class test3{
     public static void main(String[] args){
         System.out.print("333");
         System.out.print("444");
+        System.out.print("哈哈哈爷成功了");
     }
 }
